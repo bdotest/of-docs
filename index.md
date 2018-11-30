@@ -3,7 +3,7 @@ title:OperatorFabric
 layout: default
 ---
 
-# The framework to supervise your industrial activity and coordinate your operators
+## Supervise your industrial activity and coordinate your operators
 OperatorFabric is an open source framework written in Java, that makes it easy to write software for a simplified and better coordination.
 
 ## The well named OperatorFabric (AKA OpFab || OF)
