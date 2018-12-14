@@ -3,7 +3,7 @@ title:OperatorFabric
 layout: default
 ---
 
-# A Smart Assistant For System Operators
+[//]: # A Smart Assistant For System Operators
 OperatorFabric is a modular, extensible, industrial-strength and field-tested platform for use in electricity, water, and other utility operations.
 - System visualization and console integration
 - Precise alerting
